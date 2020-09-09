@@ -2,7 +2,7 @@
 
 ## Second level header
 
-** Bold font**
+**Bold font**
 
 * list element
 * list element
